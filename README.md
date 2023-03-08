@@ -2,7 +2,7 @@
 <!-- <img src="https://media.tenor.com/WW_fh9G_5K8AAAAd/excited-crazy.gif" width="25%" /><br /> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=900&size=12&pause=1000&color=33FF33&vCenter=true&repeat=false&width=435&lines=Let's+get+ready+to+Rumble)](https://git.io/typing-svg)<br />
 <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/>
-### &#9951; Skills
+### &#9951; It's all about
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></span>
 <span><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></span>
@@ -18,7 +18,7 @@
 <!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
 
-### &#9729; It's all about
+### &#9729; Cloud
 <span><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></span>
 <span><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/EC2-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
