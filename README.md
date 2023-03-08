@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer) -->
 <!-- <img src="https://media.tenor.com/WW_fh9G_5K8AAAAd/excited-crazy.gif" width="25%" /><br /> -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=900&size=12&pause=1000&color=33FF33&vCenter=true&repeat=false&width=435&lines=Let's+get+ready+to+Rumble)](https://git.io/typing-svg)<br /> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=900&size=14&pause=1000&color=33FF33&background=22272E&center=true&vCenter=true&repeat=false&width=256&lines=%3CLetsGetReadyToRumble+%2F%3E)](https://git.io/typing-svg)<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=900&size=12&pause=1000&color=33FF33&background=22272E&center=true&vCenter=true&repeat=false&width=240&height=42&lines=%3CLetsGetReadyToRumble+%2F%3E)](https://git.io/typing-svg)<br />
 <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/>
 ### &#9951; It's all about
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
