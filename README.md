@@ -6,9 +6,9 @@
 ### &#9951; It's all about
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
 <span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
+<span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
 <span><a href="https://ko.redux.js.org/introduction/getting-started/"><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
 <span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
-<span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
 <br />
 <span><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-23F7DF1E?style=for-the-badge&logo=Sass&logoColor=white&color=cd6699"></a></span>
 <span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledComponents&logoColor=white&color=f77f02"></a></span>
