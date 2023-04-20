@@ -25,10 +25,10 @@
 <span><a href="https://aws.amazon.com/ko/rds/"><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/pm/ec2"><img src="https://img.shields.io/badge/EC2-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/s3"><img src="https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
-<span><img src="https://img.shields.io/badge/Amplify-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/IAM-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
+<span><a href="https://aws.amazon.com/ko/amplify"><img src="https://img.shields.io/badge/Amplify-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
+<span><a href="https://aws.amazon.com/ko/iam/"><img src="https://img.shields.io/badge/IAM-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <br />
-<span><img src="https://img.shields.io/badge/-Vercel-23F7DF1E?style=for-the-badge&logo=Vercel&logoColor=white&color=000000"></span>
+<span><a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-23F7DF1E?style=for-the-badge&logo=Vercel&logoColor=white&color=000000"></a></span>
 <span><img src="https://img.shields.io/badge/ChecklyHq-333333?style=for-the-badge&logo=ChecklyHq&logoColor=white"></span>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlkhkr&theme=github_dark) -->
