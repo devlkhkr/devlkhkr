@@ -24,7 +24,7 @@
 
 <span><a href="https://aws.amazon.com/ko/rds/?trk=f3cb16be-6576-4ac5-95d1-e77a5c360e85&sc_channel=ps&ef_id=CjwKCAjwov6hBhBsEiwAvrvN6O0t-kCE1lngqNMkSznDih4oeTSc_8sLzrNiAzOoiusuwNv8RJc-sxoCISYQAvD_BwE:G:s&s_kwcid=AL!4422!3!588924203430!e!!g!!aws%20sql%20db!16390049463!133992838059"><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/pm/ec2/?trk=e9a2f9ee-ef65-4cd7-8a3c-6778317fa9a1&sc_channel=ps&ef_id=CjwKCAjwov6hBhBsEiwAvrvN6E59emzehZmHNRjNKRbX5SELIkL2xCy0o4LoBCuhxWZIxP3b18ExFxoC7n0QAvD_BwE:G:s&s_kwcid=AL!4422!3!654166519560!e!!g!!aws%20ec2!19937604445!150835984027"><img src="https://img.shields.io/badge/EC2-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
-<span><img src="https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
+<span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><img src="https://img.shields.io/badge/Amplify-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/IAM-333333?style=for-the-badge&logo=aws&logoColor=white"></span>
 <br />
