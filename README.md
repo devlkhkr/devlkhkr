@@ -20,7 +20,7 @@
 <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
 
 ### &#9951; Cloud
-<span><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></span>
+<span><a href="https://aws.amazon.com/ko/"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></a></span>
 
 <span><a href="https://aws.amazon.com/ko/rds/"><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/pm/ec2"><img src="https://img.shields.io/badge/EC2-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
