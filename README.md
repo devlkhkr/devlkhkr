@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/> -->
 
 ### &#9951; It's all about
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
