@@ -1,11 +1,15 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/> -->
 
-### &#9951; It's all about
+### &#9951; Tech Stacks
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
 <span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
 <span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
 <span><a href="https://ko.redux.js.org/introduction/getting-started/"><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
 <span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
+<br />
+<span><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue3-42b883?style=for-the-badge&logo=vue.js&logoColor=white&color=42b883"></a></span>
+<span><a href="https://quasar.dev/"><img src="https://img.shields.io/badge/-Quasar-42b883?style=for-the-badge&logo=Quasar&logoColor=white&color=00b4ff"></a></span>
+<span><a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/-electron-42b883?style=for-the-badge&logo=electron&logoColor=white&color=262a37"></a></span>
 <br />
 <span><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-23F7DF1E?style=for-the-badge&logo=Sass&logoColor=white&color=cd6699"></a></span>
 <span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledComponents&logoColor=white&color=f77f02"></a></span>
@@ -14,8 +18,9 @@
 <span><img src="https://img.shields.io/badge/-MySQL-23F7DF1E?style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1"></span>
 <span>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)</span>
 <span>![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)</span>
-<!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
+<br />
+<span><img src="https://img.shields.io/badge/-springboot-23F7DF1E?style=for-the-badge&logo=springboot&logoColor=white&color=6bae40"></span>
+<span><img src="https://img.shields.io/badge/-JAVA-23F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=38220f"></span>
 
 ### &#9951; Cloud
 <span><a href="https://aws.amazon.com/ko/"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></a></span>
