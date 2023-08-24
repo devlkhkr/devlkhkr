@@ -15,6 +15,7 @@
 <span><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-styledComponents-23F7DF1E?style=for-the-badge&logo=styledComponents&logoColor=white&color=f77f02"></a></span>
 <br />
 <span><img src="https://img.shields.io/badge/-Node.js-23F7DF1E?style=for-the-badge&logo=Node.js&logoColor=white&color=339933"></span>
+<span><img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&color=E0234E"></span>
 <span><img src="https://img.shields.io/badge/-MySQL-23F7DF1E?style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1"></span>
 <span>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)</span>
 <span>![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)</span>
