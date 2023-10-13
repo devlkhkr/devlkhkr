@@ -18,8 +18,10 @@
 <span><img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&color=E0234E"></span>
 <span><img src="https://img.shields.io/badge/-MySQL-23F7DF1E?style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1"></span>
 <span><img src="https://img.shields.io/badge/-TypeORM-E83524?style=for-the-badge&logo=TypeORM&logoColor=white&color=E83524"></span>
+<br />
 <span>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)</span>
 <span>![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)</span>
+<span>![Github](https://img.shields.io/badge/GitFlow-181717?style=for-the-badge&logo=GitFlow&logoColor=white)</span>
 <br />
 <span><img src="https://img.shields.io/badge/-springboot-23F7DF1E?style=for-the-badge&logo=springboot&logoColor=white&color=6bae40"></span>
 <span><img src="https://img.shields.io/badge/-JAVA-23F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=38220f"></span>
