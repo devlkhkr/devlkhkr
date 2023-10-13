@@ -5,7 +5,7 @@
 <span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
 <span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
 <span><a href="https://ko.redux.js.org/introduction/getting-started/"><img src="https://img.shields.io/badge/-Redux-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
-<span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Redux&logoColor=white&color=764abc"></a></span>
+<span><a href="https://recoiljs.org/ko/"><img src="https://img.shields.io/badge/-Recoil-23F7DF1E?style=for-the-badge&logo=Recoil&logoColor=white&color=3578e5"></a></span>
 <br />
 <span><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue3-42b883?style=for-the-badge&logo=vue.js&logoColor=white&color=42b883"></a></span>
 <span><a href="https://quasar.dev/"><img src="https://img.shields.io/badge/-Quasar-42b883?style=for-the-badge&logo=Quasar&logoColor=white&color=00b4ff"></a></span>
