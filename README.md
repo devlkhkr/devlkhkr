@@ -36,7 +36,7 @@
 <span><a href="https://aws.amazon.com/ko/iam/"><img src="https://img.shields.io/badge/IAM-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <br />
 <span><a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-23F7DF1E?style=for-the-badge&logo=Vercel&logoColor=white&color=000000"></a></span>
-<span><a href="https://www.checklyhq.com/"><img src="https://img.shields.io/badge/ChecklyHq-333333?style=for-the-badge&logo=ChecklyHq&logoColor=white"></a></span>
+<!--<span><a href="https://www.checklyhq.com/"><img src="https://img.shields.io/badge/ChecklyHq-333333?style=for-the-badge&logo=ChecklyHq&logoColor=white"></a></span> -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlkhkr&theme=github_dark) -->
 
