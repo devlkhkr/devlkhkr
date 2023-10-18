@@ -1,6 +1,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/> -->
 
-### &#9951; Tech Stacks
+### &#9873; Tech Stacks
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
 <span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
 <span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
@@ -26,7 +26,7 @@
 <span><img src="https://img.shields.io/badge/-springboot-23F7DF1E?style=for-the-badge&logo=springboot&logoColor=white&color=6bae40"></span>
 <span><img src="https://img.shields.io/badge/-JAVA-23F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=38220f"></span>
 
-### &#9951; Cloud
+### &#9873; Cloud
 <span><a href="https://aws.amazon.com/ko/"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></a></span>
 
 <span><a href="https://aws.amazon.com/ko/rds/"><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
