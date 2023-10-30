@@ -1,5 +1,5 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlkhkr)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlkhkr)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### &#9873; Tech Stacks
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
