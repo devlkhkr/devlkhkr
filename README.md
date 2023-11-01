@@ -26,6 +26,7 @@
 <br />
 <span><img src="https://img.shields.io/badge/-springboot-23F7DF1E?style=for-the-badge&logo=springboot&logoColor=white&color=6bae40"></span>
 <span><img src="https://img.shields.io/badge/-JAVA-23F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=38220f"></span>
+<span><img src="https://img.shields.io/badge/-MyBatis+-23F7DF1E?style=for-the-badge&logo=MyBatis+&logoColor=white&color=181717"></span>
 <span><img src="https://img.shields.io/badge/-JSP-23F7DF1E?style=for-the-badge&logo=jsp&logoColor=white&color=181717"></span>
 
 ### &#9873; Cloud
