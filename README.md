@@ -1,7 +1,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=devlkhkr&theme=tokyonight&show_icons=true" width="45%"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlkhkr)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### &#9873; Tech Stacks
+### &#9873; Once I've Used
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
 <span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
 <span><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-23F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white&color=000000"></a></span>
