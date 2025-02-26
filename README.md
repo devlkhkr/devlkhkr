@@ -30,8 +30,6 @@
 <span><img src="https://img.shields.io/badge/-JSP-23F7DF1E?style=for-the-badge&logo=jsp&logoColor=white&color=181717"></span>
 
 ### &#9873; Cloud
-<span><a href="https://aws.amazon.com/ko/"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" height="28" /></a></span>
-
 <span><a href="https://aws.amazon.com/ko/rds/"><img src="https://img.shields.io/badge/RDS-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/pm/ec2"><img src="https://img.shields.io/badge/EC2-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
 <span><a href="https://aws.amazon.com/ko/s3"><img src="https://img.shields.io/badge/S3-333333?style=for-the-badge&logo=aws&logoColor=white"></a></span>
